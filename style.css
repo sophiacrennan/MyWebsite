@@ -1,0 +1,37 @@
+.profile {
+    height: 150px;
+}
+
+body {
+    background-color: #BCA6D1;
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    outline: black;
+    outline-width: 2px;
+    vertical-align: top;
+}
+
+#Name {
+    background-image: url("./Boston_Background.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 125px;
+    
+}
+
+h2 {
+    background-color: white;
+    color: #654682;
+    font-weight: bold;
+    font-style: italic; 
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    opacity: 0.5;
+}
+
+
